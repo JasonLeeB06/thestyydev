@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me: styydev@gmail.com
+- 📫 How to reach me: mail@styydev.de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
