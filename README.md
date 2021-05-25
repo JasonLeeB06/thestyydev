@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">I'm currently in school, and programming in Java, HTML, JavaScript...</h3>
+<h3 align="center">I'm currently in school, and programming in Java, HTML, JavaScript, Python...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thestyydev&label=Profile%20views&color=0e75b6&style=flat" alt="thestyydev" /> </p>
 
 
-- 🌱 I’m currently learning **Java, HTML, JavaScript**
+- 🌱 I’m currently learning **Java, HTML, JavaScript, Python**
 
 - 📫 How to reach me: mail@styydev.de
 
