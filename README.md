@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thestyydev&label=Profile%20views&color=0e75b6&style=flat" alt="thestyydev" /> </p>
 
 
-- 🌱 I’m currently learning **Java, HTML, JavaScript, Python**
+- 🌱 I’m currently learning **HTML, Swift, CSS, Python, PHP**
 
 - 📫 How to reach me: mail@styydev.de
+
+I stopped using the Java language as I focus more on other languages.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
