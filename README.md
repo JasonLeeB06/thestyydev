@@ -17,4 +17,8 @@ I stopped using the Java language as I focus more on other languages.
 <a href="https://dsc.gg/styydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="r7R4jRT" height="30" width="40" /></a>
 </p>
 
+
+<img align="left" alt="StyyDev | Github Stats" src="https://github-readme-stats.vercel.app/api?username=thestyydev&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="left" alt="StyyDev | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestyydev&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<br><br />
 <h3 align="left"
